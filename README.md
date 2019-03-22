@@ -8,7 +8,7 @@
 |         Immutable         |           想破坏也破坏不了            |          |
 |    Guarded Suspension     |             等我准备好哦              |          |
 |          Balking          |             不需要就算了              |          |
-|         啊水电费          |          我来生产, 你来使用           |          |
+|         Producer-Consumer          |          我来生产, 你来使用           |          |
 |      Read-Write Lock      | 大家一起读没问题,但是读的时候不要写哦 |          |
 |    Thread-Per Message     |          这项工作就交给你了           |          |
 |       Worker Thread       |    工作没来就一直等,工作来了就干活    |          |
